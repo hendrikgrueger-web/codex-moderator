@@ -1,0 +1,6 @@
+interface:
+  display_name: "Moderator"
+  short_description: "Deine Aktionen zuerst, dann Ampel-Karten mit Details."
+  default_prompt: "Nutze $moderator für meinen aktuellen Arbeitsstand: zuerst nur notwendige Aktionen für mich, danach offene Projekte als kompakte Ampel-Karten mit Kontext, nächstem Schritt und aufklappbaren Details."
+policy:
+  allow_implicit_invocation: true
